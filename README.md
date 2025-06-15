@@ -9,4 +9,4 @@ A basic smart contract for holding a time-limited auction on Ethereum. Users can
 - Prize claiming by the winner
 - Custom errors and event logging
 
-🛠 Built with Solidity ^0.8.30
+Built with Solidity ^0.8.30
